@@ -1,0 +1,4 @@
+ Screen record the execution of the code. The recording should have the footage of input file content and the output file content.
+ Push the recording along with the instructions to run your code to your own public git repository - master branch and email us the link.
+ The recording should contain atleast 3 success test cases.
+ Add appropriate comments wherever needed.
